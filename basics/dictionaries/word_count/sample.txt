@@ -1,0 +1,5 @@
+apple banana apple orange banana apple grape orange banana apple
+
+cat dog cat bird dog cat fish bird cat dog cat
+
+red blue red green blue red yellow green red blue red
